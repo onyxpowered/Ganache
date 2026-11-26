@@ -1,0 +1,13 @@
+[
+  {"Name":"UniFi Zero","apiKey":"AIzaSyDIdNG3b8ruUrZpd2YHaFZwOQeTpNKFzdc","authDomain":"unifizero.firebaseapp.com","databaseURL":"https://unifizero-default-rtdb.firebaseio.com","projectId":"unifizero","appId":"1:435318117665:web:9c043de04f63f54a09da60"},
+  {"Name":"UniFi Switcher I","apiKey":"AIzaSyB5wqrN-O8gFOhLTol5T-fQliQWqXpAWj8","authDomain":"unifiswitcheri.firebaseapp.com","databaseURL":"https://unifiswitcheri-default-rtdb.firebaseio.com","projectId":"unifiswitcheri","appId":"1:566731937132:web:ce557f0fce344644080f49"},
+  {"Name":"UniFi Switcher II","apiKey":"AIzaSyDYkxdPfu8NUKoLrWQ-ew4zkd5f1flZNyk","authDomain":"unifiswitcherii.firebaseapp.com","databaseURL":"https://unifiswitcherii-default-rtdb.firebaseio.com","projectId":"unifiswitcherii","appId":"1:720635431921:web:cbf91ee9119591b7f2d250"},
+  {"Name":"UniFi Switcher III","apiKey":"AIzaSyCAOdkfjmXK1GHHxK6C-a-c3NHkXHpyjtE","authDomain":"unifiswitcheriii.firebaseapp.com","databaseURL":"https://unifiswitcheriii-default-rtdb.firebaseio.com","projectId":"unifiswitcheriii","appId":"1:962454754538:web:0a473410da1ec0d0c43393"},
+  {"Name":"UniFi Switcher IV","apiKey":"AIzaSyD0hD5aSlIXiFBOL4z0McTnOovOyo3ZuAQ","authDomain":"unifiswitcheriv.firebaseapp.com","databaseURL":"https://unifiswitcheriv-default-rtdb.firebaseio.com","projectId":"unifiswitcheriv","appId":"1:119403300133:web:cedfc45f2868e94cce46cc"},
+  {"Name":"UniFi Switcher V","apiKey":"AIzaSyCicafxHq3ntWL2acuq1Lq6PTfUReNX4Ro","authDomain":"unifiswitcherv.firebaseapp.com","databaseURL":"https://unifiswitcherv-default-rtdb.firebaseio.com","projectId":"unifiswitcherv","appId":"1:699530633455:web:9515d71c0836d5362f7b1a"},
+  {"Name":"UniFi Switcher VI","apiKey":"","authDomain":"","databaseURL":"","projectId":"","appId":""},
+  {"Name":"UniFi Switcher VII","apiKey":"","authDomain":"","databaseURL":"","projectId":"","appId":""},
+  {"Name":"UniFi Switcher VIII","apiKey":"","authDomain":"","databaseURL":"","projectId":"","appId":""},
+  {"Name":"UniFi Switcher IX","apiKey":"","authDomain":"","databaseURL":"","projectId":"","appId":""},
+  {"Name":"UniFi Switcher X","apiKey":"","authDomain":"","databaseURL":"","projectId":"","appId":""}
+]

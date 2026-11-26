@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "aeronopt",
+  "description": "Aeron OPT",
+  "version": "1.0.0",
+  "author": "Chalant Labs",
+  "type": "module",
+  "main": "app/main.js",
+  "scripts": {
+    "dev": "node Forge.js && nextron",
+    "build": "node Forge.js && nextron build",
+    "forge": "node Forge.js",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "@fontsource-variable/geist": "^5.3.0",
+    "@fontsource-variable/geist-mono": "^5.3.0",
+    "electron-serve": "^3.0.0",
+    "electron-store": "^11.0.2",
+    "firebase": "^13.3.0"
+  },
+  "devDependencies": {
+    "electron": "^43.3.0",
+    "electron-builder": "^26.15.3",
+    "esbuild": "^0.28.2",
+    "next": "^16.3.0",
+    "nextron": "^10.3.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}

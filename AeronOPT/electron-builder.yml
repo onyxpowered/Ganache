@@ -1,0 +1,12 @@
+appId: com.chalantlabs.aeronopt
+productName: Aeron OPT
+copyright: Copyright © 2026 Chalant Labs
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
